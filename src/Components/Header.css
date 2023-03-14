@@ -1,0 +1,149 @@
+.container {
+position: relative;
+}
+
+.logo-img{
+height: 15px;
+width: 160px;
+margin-top: 2.73%;
+margin-right: 84.1%;
+margin-left: 5.21%;
+}
+
+.logo-img1{
+    margin-left: 8.89%;
+    margin-right: 88.61%;
+    margin-bottom: 2%;
+    height: 10px;
+    width: 36px;
+    
+} 
+.logo-img2{
+   margin-left: 14%;
+  
+width: 16.54px;
+height: 5.94px;
+   position: absolute;
+   top: 20px;
+   left: 30px;
+   transform: matrix(0.9, -0.44, 0.43, 0.9, 0, 0);
+   
+}
+
+.logo-img3{
+    margin-left: 15%;
+    margin-right: 82.59%;
+    transform: matrix(0.9, -0.43, 0.42, 0.91, 0, 0);
+    position: absolute;
+    top: 25px;
+   left: 10px;
+   width: 27.73px;
+   height: 11.24px;
+}
+
+.serachbox{
+    position: absolute;
+    left: 25.49%;
+  
+    top: 0.69%;
+    bottom: 98.66%;
+    width: 693px;
+    height: 45px;
+   background-color: #ffff;
+    border-radius: 8px;
+    border: 1px solid #31B665;
+    display: flex;
+    margin-top: 17px;
+  
+}
+.input_pro{
+    position: absolute;
+ 
+    top: 25%;
+    bottom: 98.8%;
+    width: 278px;
+    height: 23px;
+    margin-left: 20px;
+   font-style: normal;
+   font-weight: 400px;
+   font-size: 15px;
+    font-family: 'Poppins';
+    /* border-bottom-left-radius: 8px;
+    border-top-left-radius: 8px; */
+    color: #858585;
+    border: none;
+}
+
+.input_loc{
+    position: absolute;
+
+    right: 43.12%;
+    top: 25%;
+    bottom: 98.8%;
+    width: 64px;
+    height: 23px;
+    border-left: 2px solid #31B665 ;
+   font-style: normal;
+   font-weight: 400px;
+   font-size: 15px;
+    font-family: 'Poppins';
+    color: #858585;
+    border-bottom: none;
+    border-top: none;
+    border-right: none;
+    padding-left: 30px;
+   
+}
+.search_btn{
+    margin-left: 640px;
+    width: 62px;
+    height: 45px;
+     border-bottom-right-radius: 8px;
+    border-top-right-radius: 8px;
+    border: none;
+    background-color: #31B665;
+}
+
+.search_icon{
+width: 23px;
+height: 23px;
+color: white;
+}
+.register_div{
+    margin-left: 75%;
+    margin-top: -5.5%;
+   
+}
+.login_btn{
+    width: 120px;
+    height: 45px;
+    border-radius: 47px;
+    border: 1px solid #31B665;
+    background-color: #ffff;
+  margin-right: 30px;
+  margin-left: 20px;
+    
+}
+.signup_btn{
+    width: 120px;
+    height: 45px;
+    border-radius: 47px;
+    border: 1px solid #31B665;
+    background-color:#31B665;
+    color: #ffff;
+    
+   
+}
+.login{
+    font-weight: 700;
+    font-size: 19px;
+    font-family: 'Poppins';
+    font-style: normal;
+    color: #707070;
+}
+.signup{
+    font-weight: 700px;
+    font-size: 19px;
+    font-family: 'Poppins';
+    font-style: normal;
+}

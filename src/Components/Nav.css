@@ -1,0 +1,32 @@
+.main_nav_head{
+display: flex;  
+   margin-left: 74px;
+   width: 64%;
+   justify-content: space-evenly;
+}
+
+.arrow_down{
+    width: 18px;
+    height: 10px;
+    color: #707070;
+}
+
+.social_icons{
+    margin-left: 70%;
+    margin-top: -3%;
+    width: 200px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.social_img{
+    width: 18.76px;
+    height: 21px;
+}
+.cart_icons{
+    margin-left: 85%;
+    margin-top: -1.7%;
+    display: flex;
+    justify-content: space-evenly;
+    width: 120px;
+}
+
